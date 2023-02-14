@@ -40,7 +40,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferran-lx&show_icons=true&bg_color=00000000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferran-lx&langs_count=8)](https://github.com/ferran-lx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferran-lx&langs_count=8)](https://github.com/Ferran-LX/TEST)
 
 https://github.com/anuraghazra/github-readme-stats
 
