@@ -4,6 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferran-lx&label=Profile%20views&color=0e75b6&style=flat" alt="ferran-lx" /> </p> -->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
@@ -36,6 +37,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferran-lx&show_icons=true&locale=en" alt="ferran-lx" /></p>
+![Ferran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferran-lx&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferran-lx&langs_count=8)](https://github.com/ferran-lx/github-readme-stats)
 
 
 https://github.com/anuraghazra/github-readme-stats
